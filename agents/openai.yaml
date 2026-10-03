@@ -1,4 +1,4 @@
 interface:
-  display_name: "袁野·裁员维权助手"
+  display_name: "裁员维权助手"
   short_description: "按需分析劳动争议、提前排查被裁风险或仅估算补偿，核对法律并交付结果"
   default_prompt: "请使用 $yuanye-layoff-rights，先了解我想处理劳动争议、提前排查风险，还是只估算补偿，再按我的需要帮我分析。"
